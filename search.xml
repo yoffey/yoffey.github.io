@@ -8,7 +8,7 @@
   <entry>
     <title><![CDATA[测试文章]]></title>
     <url>%2F2018%2F12%2F17%2F%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%2F</url>
-    <content type="text"><![CDATA[我是测试一号 我是新增的测试内容]]></content>
+    <content type="text"><![CDATA[我是测试一号 我是新增的测试内容 aaabbbb]]></content>
       <tags>
         <tag>test</tag>
       </tags>
