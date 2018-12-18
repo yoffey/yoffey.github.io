@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[测试3]]></title>
     <url>%2F%E6%B5%8B%E8%AF%953.html</url>
-    <content type="text"><![CDATA[我是测试3\usr\local123456789101112131415161718192021public class Test &#123; public static void main(String[] args) &#123;// int[] arry = new int[] &#123;0, 1, 2, 3, 4, 5, 6, 7&#125;;// Random rng = new Random();//// for (int i = 0; i &lt; 100; i++) &#123;// int h = rng.nextInt();// h = h == 0 ? 1 : h;// int index = arry.length - 1;// System.out.println(index &amp; h);// &#125; int a = 1 &lt;&lt; 16; System.out.println(a); int b = (int) Math.pow(2, 16); System.out.println(b); &#125;&#125;]]></content>
+    <content type="text"><![CDATA[我是测试3\usr\local123456789101112131415161718192021public class Test &#123; public static void main(String[] args) &#123;// int[] arry = new int[] &#123;0, 1, 2, 3, 4, 5, 6, 7&#125;;// Random rng = new Random();//// for (int i = 0; i &lt; 100; i++) &#123;// int h = rng.nextInt();// h = h == 0 ? 1 : h;// int index = arry.length - 1;// System.out.println(index &amp; h);// &#125; int a = 1 &lt;&lt; 16; System.out.println(a); int b = (int) Math.pow(2, 16); System.out.println(b); &#125; &#125; 我是新的啊哈哈啊 哎哎哎]]></content>
   </entry>
   <entry>
     <title><![CDATA[aa.md]]></title>
