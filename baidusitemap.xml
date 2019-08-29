@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yoffey.club/JDK8%E5%8D%81%E5%A4%A7%E7%89%B9%E6%80%A7.html</loc>
+    <loc>http://yoursite.com/JDK8%E5%8D%81%E5%A4%A7%E7%89%B9%E6%80%A7.html</loc>
     <lastmod>2018-12-21T10:41:00.145Z</lastmod>
   </url>  <url>
-    <loc>https://yoffey.club/Markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.html</loc>
+    <loc>http://yoursite.com/Markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.html</loc>
     <lastmod>2018-12-19T09:38:35.086Z</lastmod>
   </url>  <url>
-    <loc>https://yoffey.club/%E5%BC%80%E5%8D%9A%E5%AE%A2%E5%95%A6.html</loc>
+    <loc>http://yoursite.com/%E5%BC%80%E5%8D%9A%E5%AE%A2%E5%95%A6.html</loc>
     <lastmod>2018-12-18T18:34:02.786Z</lastmod>
   </url>
 </urlset>
